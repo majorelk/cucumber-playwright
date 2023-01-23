@@ -1,0 +1,26 @@
+{
+  "name": "cucumber-playwright",
+  "version": "1.0.0",
+  "description": "Learning Repo from the udemy course https://www.udemy.com/course/build-a-cucumber-playwright-typescript-automation-framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majorelk/cucumber-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majorelk/cucumber-playwright/issues"
+  },
+  "homepage": "https://github.com/majorelk/cucumber-playwright#readme",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.10.0",
+    "@playwright/test": "^1.29.2",
+    "@types/fs-extra": "^11.0.1",
+    "allure-playwright": "^2.0.0-beta.24",
+    "eslint": "^8.32.0",
+    "prettier": "^2.8.3"
+  }
+}
